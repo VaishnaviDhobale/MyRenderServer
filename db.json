@@ -42178,8 +42178,11 @@
             ]
         }
     ],
-    "events": [
-        {"test":1}
-      ]
+    "cart": [
+        
+    ],
+    "wishlist" : [],
+    "login" : [],
+    "registration" : []
     
 }
